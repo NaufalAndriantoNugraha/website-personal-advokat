@@ -10,6 +10,8 @@ Home — Menampilkan pengenalan singkat serta tombol call-to-action untuk menghu
 
 Contact — Menyediakan informasi kontak dan akses cepat untuk berkomunikasi dengan advokat.
 
+Blog - Menampilkan kumpulan tulisan dari bapak Suwito, yang  berisi pengalaman profesional, dan insight terkait dunia hukum, sehingga pengunjung dapat menambah pengetahuan serta memahami perspektif advokat secara langsung.
+
 About — Berisi profil lengkap, riwayat pendidikan, serta perjalanan karier mulai dari kepolisian hingga menjadi seorang advokat profesional.
 
 Website ini diharapkan dapat menjadi sarana efektif untuk memperkuat kredibilitas advokat sekaligus mempermudah klien dalam mendapatkan bantuan hukum.

@@ -7,7 +7,7 @@ document.querySelectorAll(".to_whatsapp").forEach((element) => {
   element.addEventListener("click", openWhatsapp);
 });
 
-const posts = import.meta.glob("../posts/*.md");
+const posts = import.meta.glob("../posts/*.md", { query: "raw" });
 const listElement = document.querySelector("#blog-list");
 
 Object.keys(posts).forEach((path) => {
